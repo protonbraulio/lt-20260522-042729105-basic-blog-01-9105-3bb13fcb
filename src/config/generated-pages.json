@@ -1,1 +1,26 @@
-[]
+[
+  {
+    "title": "Content Operations Workflow",
+    "href": "/projects/content-operations-workflow"
+  },
+  {
+    "title": "Content Operations Best Practices",
+    "href": "/projects/content-operations-best-practices"
+  },
+  {
+    "title": "Content Operations FAQ",
+    "href": "/projects/content-operations-faq"
+  },
+  {
+    "title": "Content Operations Glossary",
+    "href": "/projects/content-operations-glossary"
+  },
+  {
+    "title": "Content Operations Checklist",
+    "href": "/projects/content-operations-checklist"
+  },
+  {
+    "title": "Content Operations Methodology",
+    "href": "/projects/content-operations-methodology"
+  }
+]
